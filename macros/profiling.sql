@@ -13,7 +13,7 @@
         {% set read_information_schema_datas %}
         
             SELECT
-
+ 
                 table_catalog           AS table_database
                 , table_schema
                 , table_name
